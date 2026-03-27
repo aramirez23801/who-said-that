@@ -1,0 +1,28 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Database
+*.db
+
+# Static assets (downloaded at runtime)
+static/
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+#docs
+docs/

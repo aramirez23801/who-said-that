@@ -1,0 +1,1 @@
+from backend.models import user, person, quote, game  # noqa: F401 — registers models with SQLAlchemy Base
